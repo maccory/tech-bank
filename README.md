@@ -1,1 +1,3 @@
-# tech-bank
+# Tech-Bank
+
+System bankowy Tech-Bank
